@@ -1,0 +1,11 @@
+{
+    "require": {
+        "ocramius/proxy-manager": "^1.0",
+        "monolog/monolog": "^1.22"
+    },
+    "autoload": {
+        "psr-4": {
+            "ProxyManagerExample\\": "src/"
+        }
+    }
+}
